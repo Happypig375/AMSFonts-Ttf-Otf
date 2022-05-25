@@ -8,3 +8,5 @@ As a result, I converted all of them into TrueType and OpenType files using Tran
 The content in TTF files are identical to that in OTF files; I added OTF in addition to TTF because the OTF files are smaller in size.
 
 Feel free to use them all!
+
+**PS: the fonts in amsfonts-otf.zip is converted from AMSFonts(Type1) to OTF using the open source software [FontForge](https://fontforge.org/) by Firestar-Reimu.**
